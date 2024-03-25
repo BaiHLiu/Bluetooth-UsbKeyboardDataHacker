@@ -1,15 +1,9 @@
-## Installation
-
-```
-python3 -m pip install poetry
-poetry install
-```
+## 加入对蓝牙键盘流量的支持
+`python BlueToothUsbKeyboardHacker.py data.pcap`
+***
+## 以下为原项目说明
 
 ## Usage
-
-```
-poetry run python UsbKeyboardDataHacker.py ./example.pcap
-```
 
 ```
 Usage : 
